@@ -1,0 +1,41 @@
+.navbar-nav{
+    background-color:#a7a9b8 ;   
+}
+.container-fluid{
+    background-color: #2D3250;
+}
+#portfolio{
+    color: white;
+}
+.container1{
+    background: linear-gradient(45deg, #221e24, transparent);
+height: 50%;
+width: 100%;
+
+}
+.col-10.col-sm-8.col-lg-6 {
+    height: 1000px;
+}
+img{
+    height: 400px;
+    width: 500px;
+    margin-top: 50px
+}
+.edu{
+height: 100px;
+    font-size: 50px;
+    margin-top: 100px;
+}
+.container2{
+    background: linear-gradient(45deg, #221e24, transparent);
+}
+.container3{
+    background: linear-gradient(45deg, #221e24, transparent);
+}
+.contactme{
+    background: linear-gradient(45deg, #221e24, transparent);
+}
+.cont{
+    text-decoration: none;
+    color: white;
+}
